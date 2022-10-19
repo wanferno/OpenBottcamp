@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c008094-2ddb-4001-904a-16117c6b6dbd" name="Changes" comment="1 Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio_Tema_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio_Tema_3.java" afterDir="false" />
-    </list>
+    <list default="true" id="1c008094-2ddb-4001-904a-16117c6b6dbd" name="Changes" comment="Deber Hecho" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666206076057</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Deber Hecho">
+      <created>1666210553173</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666210553173</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,6 +77,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 Commit" />
+    <MESSAGE value="Deber Hecho" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deber Hecho" />
   </component>
 </project>
