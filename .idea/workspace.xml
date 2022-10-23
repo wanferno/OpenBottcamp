@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1c008094-2ddb-4001-904a-16117c6b6dbd" name="Changes" comment="Tarea 4 Condicionales">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio_Tema_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio_Tema_5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
